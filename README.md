@@ -65,9 +65,10 @@ rosrun pkg_internship_bot internship.py
 
 ### Manipulator  
 
+#### Image:
 ![image](https://user-images.githubusercontent.com/78917282/118496328-a7266280-b741-11eb-9ed5-3050d23e9dde.png)
 
-
+#### Video:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-NfOZPfUFLA/0.jpg)](https://www.youtube.com/watch?v=-NfOZPfUFLA)
 
 
