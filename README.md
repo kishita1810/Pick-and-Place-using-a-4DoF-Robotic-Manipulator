@@ -1,10 +1,10 @@
 # Pick and Place using a 4DoF Robotic Manipulator
  
 
-## Problem Statement
+### Problem Statement
 Create a 3-Dof/4-Dof robotic arm with a gripper from scratch and implement pick and place using MoveIt for a cube container. Assume all the required dimensions and details of the links and cube appropriately
 
-## Assumptions 
+### Assumptions 
 Base: 
 Diameter = 800 mm,
 Thickness = 200 mm
@@ -28,7 +28,7 @@ Vacuum Gripper:
 Outer Radius = 200 mm,
 Inner Radius = 100 mm
 
-# Methodology 
+### Methodology 
 
 1. First create the parts in Fusion 360 or your desired CAD software. <br>
 2. Exported the parts in .step extension so that it can be used in solidworks. <br>
@@ -40,6 +40,6 @@ Inner Radius = 100 mm
 6. Write a Python or C++ code for performing the pick and place operation. <br>
 7. Run the rviz-MoveIt in one terminal and the python code in another terminal to see the output. <br>
 
-# Manipulator  
+### Manipulator  
 
-# Video Output
+### Video Output
