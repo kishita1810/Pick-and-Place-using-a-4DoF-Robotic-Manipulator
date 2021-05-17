@@ -68,6 +68,9 @@ rosrun pkg_internship_bot internship.py
 ![image](https://user-images.githubusercontent.com/78917282/118496328-a7266280-b741-11eb-9ed5-3050d23e9dde.png)
 
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-NfOZPfUFLA/0.jpg)](https://www.youtube.com/watch?v=-NfOZPfUFLA)
+
+
 ### Video Output
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bBtZ40Qu28w/0.jpg)](https://www.youtube.com/watch?v=bBtZ40Qu28w)
