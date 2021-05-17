@@ -28,6 +28,9 @@ Vacuum Gripper:
 Outer Radius = 200 mm,
 Inner Radius = 100 mm
 
+
+Assuming the box is placed on certain height and not on ground
+
 ### Methodology 
 
 1. First create the parts in Fusion 360 or your desired CAD software. <br>
