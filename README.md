@@ -47,7 +47,7 @@ Inner Radius = 100 mm
 
 ### Video Output
 
-![video]https://www.youtube.com/watch?v=bBtZ40Qu28w
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bBtZ40Qu28w/0.jpg)](https://www.youtube.com/watch?v=bBtZ40Qu28w)
 
 ### Google Drive Link with all the packages
 
