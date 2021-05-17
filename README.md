@@ -33,15 +33,17 @@ Assuming the box is placed on certain height and not on ground.
 
 ### Methodology 
 
+You can download all the files and skip to step 6.
+
 1. First create the parts in Fusion 360 or your desired CAD software. <br>
-2. Exported the parts in .step extension so that it can be used in solidworks. <br>
+2. Export the parts in .step extension so that it can be used in solidworks. <br>
 3. Create a new assembly in Solidworks using the exported parts. <br>
 4. Create a URDF File using the URDF plugin in solidworks. <br>
 5. Upload the generated a folder on a drive so that you can use it later in Linux. <br>
  (Make sure you have ROS and MoveIt installed before this step) <br>
-5. Create a setup in MoveIt using MoveIt setup Assisatant and URDF Files.<br>
-6. Write a Python or C++ code for performing the pick and place operation. <br>
-7. Run the rviz-MoveIt in one terminal and the python code in another terminal to see the output. <br>
+6. Create a setup in MoveIt using MoveIt setup Assisatant and URDF Files.<br>
+7. Write a Python or C++ code for performing the pick and place operation. <br>
+8. Run the rviz-MoveIt in one terminal and the python code in another terminal to see the output. <br>
 
 ### Manipulator  
 
