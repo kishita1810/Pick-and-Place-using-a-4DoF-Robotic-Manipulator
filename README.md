@@ -47,4 +47,4 @@ Inner Radius = 100 mm
 
 ### Video Output
 
-https://youtu.be/bBtZ40Qu28w
+https://www.youtube.com/watch?v=bBtZ40Qu28w
