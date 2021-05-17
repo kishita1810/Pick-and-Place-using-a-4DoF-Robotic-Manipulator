@@ -1,10 +1,10 @@
 # Pick and Place using a 4DoF Robotic Manipulator
  
 
-### Problem Statement
+## Problem Statement
 Create a 3-Dof/4-Dof robotic arm with a gripper from scratch and implement pick and place using MoveIt for a cube container. Assume all the required dimensions and details of the links and cube appropriately
 
-### Assumptions 
+## Assumptions 
 Base: 
 Diameter = 800 mm,
 Thickness = 200 mm
@@ -31,7 +31,7 @@ Inner Radius = 100 mm
 
 Assuming the box is placed on certain height and not on ground.
 
-### Methodology 
+## Methodology 
 
 You can download all the files and skip to step 6.
 
@@ -51,19 +51,19 @@ You can download all the files and skip to step 6.
 14. Write a Python or C++ code for performing the pick and place operation and save it in the scripts folder. <br>
 15. Run the rviz-MoveIt in one terminal and the python code in another terminal to see the output. <br>
 
-Command to open MoveIt setup Assistant:<br>
+### Command to open MoveIt setup Assistant:<br>
 roslaunch moveit_setup_assistant setup_assistant.launch
 
 
-Command to launch rviz-MoveIt:<br>
+### Command to launch rviz-MoveIt:<br>
 roslaunch pkg_moveit_robot demo.launch
 
 
-Command to run python:<br>
+### Command to run python:<br>
 rosrun pkg_internship_bot internship.py
 
 
-### Manipulator  
+## Manipulator  
 
 #### Image:
 ![image](https://user-images.githubusercontent.com/78917282/118496328-a7266280-b741-11eb-9ed5-3050d23e9dde.png)
@@ -72,10 +72,10 @@ rosrun pkg_internship_bot internship.py
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-NfOZPfUFLA/0.jpg)](https://www.youtube.com/watch?v=-NfOZPfUFLA)
 
 
-### Video Output
+## Video Output
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bBtZ40Qu28w/0.jpg)](https://www.youtube.com/watch?v=bBtZ40Qu28w)
 
-### Google Drive Link with all the files
+## Google Drive Link with all the files
 
 https://drive.google.com/drive/folders/1pgNGCP11WMNUuV7l_mr3C8NVQqc5NLha?usp=sharing
