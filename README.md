@@ -29,7 +29,7 @@ Outer Radius = 200 mm,
 Inner Radius = 100 mm
 
 
-Assuming the box is placed on certain height and not on ground
+Assuming the box is placed on certain height and not on ground.
 
 ### Methodology 
 
@@ -52,6 +52,6 @@ Assuming the box is placed on certain height and not on ground
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bBtZ40Qu28w/0.jpg)](https://www.youtube.com/watch?v=bBtZ40Qu28w)
 
-### Google Drive Link with all the packages
+### Google Drive Link with all the files
 
 https://drive.google.com/drive/folders/1pgNGCP11WMNUuV7l_mr3C8NVQqc5NLha?usp=sharing
