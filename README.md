@@ -59,7 +59,7 @@ roslaunch moveit_setup_assistant setup_assistant.launch
 roslaunch pkg_moveit_robot demo.launch
 
 
-### Command to run python:<br>
+### Command to run python code:<br>
 rosrun pkg_internship_bot internship.py
 
 
