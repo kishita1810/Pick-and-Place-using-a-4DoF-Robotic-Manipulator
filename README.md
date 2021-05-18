@@ -29,7 +29,8 @@ Outer Radius = 200 mm,
 Inner Radius = 100 mm
 
 
-Assuming the box is placed on certain height and not on ground.
+Assuming the box is placed on certain height and not on ground.<br>
+Assuming a cube of 400 mm is to be picked.
 
 ## Methodology 
 
